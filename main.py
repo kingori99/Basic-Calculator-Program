@@ -1,7 +1,7 @@
 def basic_calculator():
     """
     A simple calculator program that takes two numbers and an operation from the user,
-    performs the calculation, and prints the result.
+    performs the calculation, and prints out the result.
     """
 
     try:
